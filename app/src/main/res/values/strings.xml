@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">The Amazing Wall</string>
+    <string name="fetch_new_wallpaper">Fetch New Wallpaper</string>
+    <string name="fetch_a_new_high_resolution_image_and_set_it_as_the_wallpaper">Fetch a new high-resolution image and set it as the wallpaper</string>
+    <string name="change_wallpaper_daily">Change Wallpaper Daily</string>
+    <string name="check_if_you_want_the_wallpaper_to_change_daily_automatically">Check if you want the wallpaper to change daily automatically</string>
+</resources>
